@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yWYae9NcdGMnyyykZ5/rPDPo1Ij11piPtK82HCwwnV/A7kbO4c4jQVFFuHwWeAmop3p1OIatjTGsZGikpeHmvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Marko\\ImportDataFromExcel\\ImportDataFromExcel\\ImportDataFromExcel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mscagampan\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
